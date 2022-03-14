@@ -1,0 +1,21 @@
+{
+    "name": "SafeMoneyBSC",
+    "website": "https://safemoney.exchange/",
+    "description": "Earn passive income by holding #SafeMoneyBSC on the BSC",
+    "explorer": "https://bscscan.com/token/0x740b4c277a94Cc781ec9da438d2eB12f75DEeE46",
+    "type": "BEP20",
+    "symbol": "SafeMoney",
+    "decimals": 9,
+    "status": "active",
+     "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/SafeMoneyBSC"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/SafeMoneyBSC_"
+        }  
+    ],
+    "id": "0x740b4c277a94Cc781ec9da438d2eB12f75DEeE46"
+}
